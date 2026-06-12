@@ -1,0 +1,6 @@
+{
+  "name": "ACAMIX",
+  "description": "High-efficiency academic compressor and assignment co-pilot that transforms messy college material into optimized cheat sheets and structured study roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
